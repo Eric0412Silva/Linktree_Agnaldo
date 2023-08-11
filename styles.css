@@ -96,9 +96,12 @@ body {
     .linktree-container {
       width: 80%;
     }
+
+    .button-container {
+    width: 80%;
   
     .social-button {
-      width: 100%;
+      width: 90%;
     }
   }
   
